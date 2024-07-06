@@ -18,9 +18,9 @@ Search and Filter Modal: A modal that opens upon clicking the search button, con
 Data Table: Displays data fetched from the API in a structured table format.
 API Context: Manages state throughout the application.
 Setup Instructions
-Clone the Repository
+Clone the Repository  https://github.com/dancolion1/Blut-Assessment
 git clone 
-cd blutech
+cd Bluetech_assessment    
 Install
 npm install
 Start the development server:
